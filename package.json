@@ -1,0 +1,26 @@
+{
+  "name": "typescript-task-manager",
+  "version": "1.0.0",
+  "description": "A simple task manager application built with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "task-manager",
+    "frontend",
+    "parcel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
