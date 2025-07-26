@@ -46,4 +46,4 @@ A simple yet powerful task manager application built with TypeScript, demonstrat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/typescript-task-manager.git
+https://github.com/amina-liaquat56/Task-Manager.git
